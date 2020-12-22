@@ -503,7 +503,7 @@ If there is no established heading created for the publisher:
 
 1. Check the geoportal to see if a local form of the creator’s name has already been established. If so, use that form of the name.
 
-2. Create a local version of the creator’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix-B). For clarification, help, or more details on how to construct names, please contact Technical Services.
+2. Create a local version of the creator’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#appendix-b-constructing-names). For clarification, help, or more details on how to construct names, please contact Technical Services.
 
 ***Example 1:***<br>
 *Title:* A new map of Louisiana with its canals, roads and distances from place to place along the stage and steam boat routes, 1839<br>
@@ -627,7 +627,7 @@ If there is no established heading created for the publisher:
 
 1. Check the geoportal to see if a local form of the publisher’s name has already been established. If so, use that form of the name.
 
-2. If no name exists in the geoportal, create a local form of the publisher’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix-B). For clarification, help, or more details on how to construct names, please contact Technical Services.
+2. If no name exists in the geoportal, create a local form of the publisher’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#appendix-b-constructing-names). For clarification, help, or more details on how to construct names, please contact Technical Services.
 
 ***Example 1:***<br>
 *Title:* Geological map of Duluth and vicinity, St. Louis County, Minnesota: Bedrock Geology, 1964<br>
