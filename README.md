@@ -60,14 +60,14 @@ For questions, help, or to report an error in this profile, please contact Data 
 | [Date Issued](#Date-Issued)       | dct_issued_s          |          |            | String    |                                                              |
 | Is Part Of        | dct_isPartOf_sm       |          | x          | Array     |                                                              |
 | Language          | dc_language_sm        |          | x          | Array     |                                                              |
-| [Layer ID](#Layer_ID)          | layer_id_s            |          |            | String    |                                                              |
+| [Layer ID](#Layer-ID)          | layer_id_s            |          |            | String    |                                                              |
 | [Modified Date](#Modified-Date)     | layer_modified_dt     |          |            | Date-time |                                                              |
 | [Publisher](#Publisher)         | dc_publisher_sm       |          | x          | Array     | [Library of Congress Name Authority File](http://id.loc.gov/authorities/names.html) |
 | References        | dct_references_s      |          |            | String    |                                                              |
 | [Solr Year](#Solr-Year)         | solr_year_i           |          |            | Integer   |                                                              |
 | Source            | dc_source_sm          |          | x          | Array     |                                                              |
 | Suppressed        | suppressed_b          |          |            | Boolean   |                                                              |
-| [Temporal Coverage](#Temporal_Coverage) | dct_temporal_sm       |          | x          | Array     |                                                              |
+| [Temporal Coverage](#Temporal-Coverage) | dct_temporal_sm       |          | x          | Array     |                                                              |
 
 ## GeoBlacklight Fields
 
@@ -125,11 +125,11 @@ Later, a script will automatically fit the bounding box into the ENVELOPE WKT (f
 
 ***Instructions:*** Create descriptions as complete sentences, ending with punctuation. Concatenate applicable title components, summary components, and scale components (described below) together to create the description. Expand any abbreviations if possible. If any relevant description(s) or abstract(s) come with the resource, add it to the description as written and include additional information as needed.
 
-If deriving descriptions from MARC records, please use specific instructions found in [Appendix C](#Appendix_C).
+If deriving descriptions from MARC records, please use specific instructions found in [Appendix C](#Appendix-C).
 
 *Title components:*
 Include the following information if applicable:
-  - Formal title and [temporal coverage](#Temporal_Coverage) of the resource.
+  - Formal title and [temporal coverage](#Temporal-Coverage) of the resource.
   - Alternative titles.
   - Edition statement.
   - Series statement.
@@ -503,7 +503,7 @@ If there is no established heading created for the publisher:
 
 1. Check the geoportal to see if a local form of the creator’s name has already been established. If so, use that form of the name.
 
-2. Create a local version of the creator’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix_B). For clarification, help, or more details on how to construct names, please contact Technical Services.
+2. Create a local version of the creator’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix-B). For clarification, help, or more details on how to construct names, please contact Technical Services.
 
 ***Example 1:***<br>
 *Title:* A new map of Louisiana with its canals, roads and distances from place to place along the stage and steam boat routes, 1839<br>
@@ -627,7 +627,7 @@ If there is no established heading created for the publisher:
 
 1. Check the geoportal to see if a local form of the publisher’s name has already been established. If so, use that form of the name.
 
-2. If no name exists in the geoportal, create a local form of the publisher’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix_B). For clarification, help, or more details on how to construct names, please contact Technical Services.
+2. If no name exists in the geoportal, create a local form of the publisher’s name according to the Library of Congress Name Authority Guidelines summarized in [Appendix B](#Appendix-B). For clarification, help, or more details on how to construct names, please contact Technical Services.
 
 ***Example 1:***<br>
 *Title:* Geological map of Duluth and vicinity, St. Louis County, Minnesota: Bedrock Geology, 1964<br>
